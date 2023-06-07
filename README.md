@@ -28,9 +28,7 @@ Tengo un gran interés por aprender y resolver problemas en el campo del desarro
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ivaneconomo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ivaneconomo/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://ivaneconomo.netlify.app)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivaneconomo)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ivaneconomo&show_icons=true)  
-
+[<img src='https://cdn.icon-icons.com/icons2/555/PNG/512/linkedin_icon-icons.com_53609.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/ivaneconomo/)  [<img src='https://cdn.icon-icons.com/icons2/1091/PNG/512/portfolio_78401.png' alt='website' height='40'>](https://ivaneconomo.netlify.app)
