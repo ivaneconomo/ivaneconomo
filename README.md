@@ -1,6 +1,6 @@
 ### Hola 👋, Mi nombre es Iván
 #### Desarrollador Fullstack (MERN)
-![Desarrollador Fullstack (MERN)](https://media.licdn.com/dms/image/D4D16AQFDpzuNKDOR-w/profile-displaybackgroundimage-shrink_350_1400/0/1686092039186?e=1691625600&v=beta&t=Hm4GJrnNhCoadVpQq7FRDAm4DV0GaDccIB5xdIjbRno)
+![Desarrollador Fullstack (MERN)](https://raw.githubusercontent.com/ivaneconomo/bucket/main/ivaneco_banner.jpg)
 
 Tengo un gran interés por aprender y resolver problemas en el campo del desarrollo web. Busco activamente oportunidades para crecer profesionalmente y expandir mis conocimientos. Poseo habilidades en HTML, CSS, JavaScript y el stack MERN. Además, dedico parte de mi tiempo libre a mantenerme actualizado en programación y desarrollo web, explorando contenido relevante como materiales audiovisuales, blogs y podcasts. Estoy listo para enfrentar desafíos y crear soluciones web innovadoras.
 
